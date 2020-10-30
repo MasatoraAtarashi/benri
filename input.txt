@@ -1,0 +1,7 @@
+Overall, the reviewed studies demonstrate a common concern of users and companies
+that use Cloud services with the privacy of their data. There are difficulties in maintaining
+data security and privacy, especially because of the threats surrounding Cloud computing
+solutions. The studies point to several threats, which have a direct impact on the adoption
+of technology and its expansion. One of the main difficulties pointed out in the studies is
+related to the threats of insider attacks to organizations that can come from employees or
+people contracted to provide services in the premises of the company.
